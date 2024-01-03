@@ -1,0 +1,3 @@
+[submodule "bmi_calculator"]
+	path = bmi_calculator
+	url = https://github.com/vathuglife/bmi_calculator.git
