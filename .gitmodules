@@ -1,3 +1,6 @@
 [submodule "bmi_calculator"]
 	path = bmi_calculator
 	url = https://github.com/vathuglife/bmi_calculator.git
+[submodule "FolderBrowser"]
+	path = FolderBrowser
+	url = https://github.com/vathuglife/FolderBrowser.git
