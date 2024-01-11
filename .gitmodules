@@ -4,3 +4,6 @@
 [submodule "FolderBrowser"]
 	path = FolderBrowser
 	url = https://github.com/vathuglife/FolderBrowser.git
+[submodule "PhotoShooter"]
+	path = PhotoShooter
+	url = https://github.com/vathuglife/PhotoShooter.git
