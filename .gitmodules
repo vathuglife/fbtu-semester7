@@ -7,3 +7,6 @@
 [submodule "PhotoShooter"]
 	path = PhotoShooter
 	url = https://github.com/vathuglife/PhotoShooter.git
+[submodule "NationalExamReporter"]
+	path = NationalExamReporter
+	url = https://github.com/vathuglife/NationalExamReporter.git
